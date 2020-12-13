@@ -1,0 +1,13 @@
+{
+    "name": "matt/exiftest",
+    "description": "Experiment with php-exif",
+    "require": {
+        "miljar/php-exif": "^0.6.5"
+    },
+    "authors": [
+        {
+            "name": "Matt Gibson",
+            "email": "gothick@gothick.org.uk"
+        }
+    ]
+}
